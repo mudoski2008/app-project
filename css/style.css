@@ -1,0 +1,48 @@
+.images{
+    height: 400px;
+    width: 300px;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.wait{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.text{
+    padding-top: 10.5rem;
+    padding-left: 3rem;
+    margin-top: 90px;
+    margin-left: -320px;
+
+}
+
+/* .text{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    margin: 0 auto;
+
+} */
+
+.class{
+    display: flex;
+    
+}
+
+.football{
+
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+
+    
+
+
+}
